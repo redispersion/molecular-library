@@ -1,0 +1,48 @@
+{
+  "molecule_id": "water",
+  "model_id": "legacy-spce",
+  "version": "v1",
+  "imported_on": "2026-11-13",
+  "status": "imported_not_physically_validated",
+  "provenance": {
+    "note": "Named SPC coordinate geometry paired with named SPC/E topology for order check only; no assertion of matching equilibrium geometry."
+  },
+  "forcefield_dependency": {
+    "family": "GROMOS54A7-ATB",
+    "status": "required_version_not_established",
+    "local_candidate": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff",
+    "note": "Local legacy files are a candidate only. No assumption of compatibility with November 2026 ATB outputs."
+  },
+  "files": [
+    {
+      "name": "spce.itp",
+      "sha256": "b9a9f10e137c136f70a814530f3f7f6a053159d9756e3ea90eae41a4b6653faa",
+      "source_path": "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/itp/spce.itp"
+    },
+    {
+      "name": "spc.gro",
+      "sha256": "d111bf1afc75035b3046cfa6b6c5c0f2ff2e2ca5329422e99ab932f39aebc0b4",
+      "source_path": "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/coord/spc.gro"
+    }
+  ],
+  "checks": {
+    "spce.itp": {
+      "molecule_types": [
+        {
+          "name": "SOL",
+          "atom_count": 6,
+          "charge_e": 0.0
+        }
+      ],
+      "parser_limitation": "Conditional branches contain repeated atom indices; raw rows are not the physical atom count. Preprocessing required.",
+      "atb_molid_header": [],
+      "atb_topology_hash": [],
+      "numeric_placeholder_lines": []
+    },
+    "spce.itp__spc.gro": {
+      "atom_name_order_match": null,
+      "status": "requires_preprocessing",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    }
+  }
+}

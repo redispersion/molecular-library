@@ -1,0 +1,392 @@
+[
+  {
+    "path": "molecules/5cb/models/gromos54a7-atb-32350/v1/5cb.itp",
+    "sha256": "50a5f549aa4354725bb808f189c8c2de4e5d22cc3af1a551562729eb795ac1f6",
+    "bytes": 14113
+  },
+  {
+    "path": "molecules/5cb/models/gromos54a7-atb-32350/v1/5cb.pdb",
+    "sha256": "c2d85147884a9f06c8a147b350f0c7126b41ee98ae107580038c4bb85ab15a93",
+    "bytes": 4098
+  },
+  {
+    "path": "molecules/5cb/models/gromos54a7-atb-569019/v1/5cb.itp",
+    "sha256": "11b0910d423094e640cb6e003a49229b1751c0dd9542ea3316364f1b95fd1c4e",
+    "bytes": 14114
+  },
+  {
+    "path": "molecules/5cb/models/gromos54a7-atb-569019/v1/5cb.pdb",
+    "sha256": "78feb14f4e763bf8608f2fda13608fbdbf8eef19dec8995a6223144d2e8a0191",
+    "bytes": 4098
+  },
+  {
+    "path": "molecules/5cb/models/acpype-legacy/v1/5cb.itp",
+    "sha256": "f02bc37b4a93866cf83d9c15eaf68018675a6c6fcc966b82b700a2f571452602",
+    "bytes": 25292
+  },
+  {
+    "path": "molecules/5cb/models/acpype-legacy/v1/5cb.gro",
+    "sha256": "d6118d8b373877f50f66be2e25ce2a330aa0eec166201834083ae7be8f5f2f64",
+    "bytes": 1824
+  },
+  {
+    "path": "molecules/chlorophyll-a/models/atb-legacy-0bonds-label/v1/chlA_Mg_0bonds_afterATB.itp",
+    "sha256": "6daa90c512ea635430846bc63a4fc2415296547a22b7079d67a6303be2cc4a83",
+    "bytes": 38274
+  },
+  {
+    "path": "molecules/chlorophyll-a/models/atb-legacy-0bonds-label/v1/chlA_Mg_0bonds_afterATB.pdb",
+    "sha256": "25ca1de0db8a76164207eac8d13c388286fba9f90cf52122caa0c891f91c345c",
+    "bytes": 14147
+  },
+  {
+    "path": "molecules/chlorophyll-a/models/atb-legacy-2bonds-label/v1/chlA_Mg_2bonds_afterATB.itp",
+    "sha256": "e10110cea6004e9dee4dfd99c1f771ea29240cdb22ddf90560c1e21dbd545d86",
+    "bytes": 38305
+  },
+  {
+    "path": "molecules/chlorophyll-a/models/atb-legacy-2bonds-label/v1/chlA_Mg_2bonds_afterATB.pdb",
+    "sha256": "e47997b76d1f3bacd03f84294815ad64a361411b131687ac8b2308d49e1fdd10",
+    "bytes": 14147
+  },
+  {
+    "path": "molecules/chlorophyll-a/models/atb-legacy-4bonds-label/v1/chlA_Mg_4bonds_afterATB.itp",
+    "sha256": "d3a9c9931d7db1f62a5ed80dd19a8a65a2c49e047c6100c2c2e974fb998462df",
+    "bytes": 39227
+  },
+  {
+    "path": "molecules/chlorophyll-a/models/atb-legacy-4bonds-label/v1/chlA_Mg_4bonds_afterATB.pdb",
+    "sha256": "ba5ffeb95b821c350e930a792ff1b7e2ed3c2a6e03aa97c72bc270ef05e1db40",
+    "bytes": 14167
+  },
+  {
+    "path": "molecules/ethanol/models/atb-legacy/v1/ethanol.itp",
+    "sha256": "a3dcbe58adbef4d214b4133d86f3db3884c8ae3b4e1b81ee99e20ecd2c8f5993",
+    "bytes": 6374
+  },
+  {
+    "path": "molecules/ethanol/models/atb-legacy/v1/ethanol.gro",
+    "sha256": "4e7553d42a72ee8a5b571fa70437a1d00acd5b64f301265edef0e889edcddd70",
+    "bytes": 478
+  },
+  {
+    "path": "molecules/n-hexane/models/atb-legacy/v1/hexan.itp",
+    "sha256": "670ac717d3b0005eaf63f751438045e2357f11a1a82456a1e390d4d642574323",
+    "bytes": 8993
+  },
+  {
+    "path": "molecules/n-hexane/models/atb-legacy/v1/hexan.pdb",
+    "sha256": "ca393f5c4af5dec37e1d0e3bde6af768f832817f2a62aeae5696e91832241c01",
+    "bytes": 2261
+  },
+  {
+    "path": "molecules/pibma-head/models/legacy/v1/pibma_head.itp",
+    "sha256": "d3c7997a4a7bee42efa3f83dde8f113f49fa2eb4bb607904ac8cd2b55606a277",
+    "bytes": 18971
+  },
+  {
+    "path": "molecules/pibma-head/models/legacy/v1/pibma_head.pdb",
+    "sha256": "4fcd20918df364cc11f99a8d309f918737185ae72b240f2f793d56824b48d557",
+    "bytes": 2618
+  },
+  {
+    "path": "molecules/pibma-head/models/legacy/v1/pibma_head.gro",
+    "sha256": "b665627ca5fff8a476ae243f924770c109366b0694383a0d6d0304114b43646b",
+    "bytes": 1426
+  },
+  {
+    "path": "molecules/pibma-body/models/legacy/v1/pibma_body.itp",
+    "sha256": "e3e60e85e1e8972a890c565bc2b2b902b3d0b082c9324299bc65a9ef0122940b",
+    "bytes": 23350
+  },
+  {
+    "path": "molecules/pibma-body/models/legacy/v1/pibma_body.pdb",
+    "sha256": "73105fb58bf98142459c0415e65e22317ff7b26bd17241a83f74c3229ee27114",
+    "bytes": 3158
+  },
+  {
+    "path": "molecules/pibma-body/models/legacy/v1/pibma_body.gro",
+    "sha256": "7d852ea6c0e18df460da0c7522a9f5d43e829c7fa8bb7294a735393c3375b5e8",
+    "bytes": 1696
+  },
+  {
+    "path": "molecules/pibma-tail/models/legacy/v1/pibma_tail.itp",
+    "sha256": "fb839dcaab1e721884d2ba96c69845fcf9f921d98f95b54724ebedea2fde2ff9",
+    "bytes": 21117
+  },
+  {
+    "path": "molecules/pibma-tail/models/legacy/v1/pibma_tail.pdb",
+    "sha256": "eb4f0e1d568cdffa061bc48093c76fae332095c55350342b3f11b6c5850b6ae3",
+    "bytes": 2888
+  },
+  {
+    "path": "molecules/pibma-tail/models/legacy/v1/pibma_tail.gro",
+    "sha256": "b03a37e823dac573f4eff164845d8667f5ebc2c9ea33f2ae7d1f3b4f4d3882c2",
+    "bytes": 1561
+  },
+  {
+    "path": "molecules/pibma-monomer/models/legacy/v1/pibma_monomer.itp",
+    "sha256": "f955aaddc658ab9c53ce836cb8f10235284d9a4c2a154543ea0ad8354934aaf5",
+    "bytes": 14517
+  },
+  {
+    "path": "molecules/pibma-monomer/models/legacy/v1/pibma_monomer.pdb",
+    "sha256": "dd21bda3b74b23391ac721607d93fa4cb16e2c91343ed3a68dea220705e204ca",
+    "bytes": 2181
+  },
+  {
+    "path": "molecules/pibma-monomer/models/legacy/v1/pibma_monomer.gro",
+    "sha256": "4692e7c7e4c21ada637277fbe5f1febe83d65fc0d1b30a05ff098412e3a94a56",
+    "bytes": 1204
+  },
+  {
+    "path": "molecules/pibma-chain/models/legacy/v1/pibma_chain.itp",
+    "sha256": "7072955dad7936f95eb736d9182da0e9fa2311f69d28a51c087537677777e87d",
+    "bytes": 336418
+  },
+  {
+    "path": "molecules/pibma-chain/models/legacy/v1/pibma_chain.pdb",
+    "sha256": "279331ad168786e9b8a12978dc9f71abfe5b1e0137c3d6ffe237fe48fed2aa15",
+    "bytes": 38171
+  },
+  {
+    "path": "molecules/pibma-chain/models/legacy/v1/pibma_chain.gro",
+    "sha256": "6153dbcf923312b062bbe450b2f431504eb267eef8495480e285b535543eb93b",
+    "bytes": 21813
+  },
+  {
+    "path": "molecules/water/models/legacy-spce/v1/spce.itp",
+    "sha256": "b9a9f10e137c136f70a814530f3f7f6a053159d9756e3ea90eae41a4b6653faa",
+    "bytes": 815
+  },
+  {
+    "path": "molecules/water/models/legacy-spce/v1/spc.gro",
+    "sha256": "d111bf1afc75035b3046cfa6b6c5c0f2ff2e2ca5329422e99ab932f39aebc0b4",
+    "bytes": 213
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/README.md",
+    "sha256": "cfcf1e1f2653a5aa5af4f879f0f1d8e3eedb55c6f1b1de996280fbb993184bdd",
+    "bytes": 1213
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/aminoacids.c.tdb",
+    "sha256": "e5518720a7f0dba2983a849c8925bb84c7802a02d70bdd8e44a46e4a7e718c4b",
+    "bytes": 665
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/aminoacids.hdb",
+    "sha256": "163c7802736850c2f4a2c82c6074a9eba867a24c7bb417ad397eb5e6fe2bc36f",
+    "bytes": 3158
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/aminoacids.n.tdb",
+    "sha256": "5587327094b7793ec62ecdbbd5c63455528a5c92cef94bad9e03b8799b713ad2",
+    "bytes": 1251
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/aminoacids.r2b",
+    "sha256": "168893ee7ddbd77436b9b0c0c6049eb4f1bec8db7f971d2a36a2c19162aae225",
+    "bytes": 132
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/aminoacids.rtp",
+    "sha256": "2b5806271d539df9bad2a39bcc85b16d8f92d066dfe2c465b818c1db01caa7e2",
+    "bytes": 309189
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/aminoacids.vsd",
+    "sha256": "54ea3c83b257bc93d441bc30c9f00b053b54796693d1739808a5a6b99cab1c10",
+    "bytes": 3584
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/atomtypes.atp",
+    "sha256": "6c273d2ebe6ffca1e1ff354152c0265447ddad49d06c9adb2880ade90a695947",
+    "bytes": 1003
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/dppc.itp",
+    "sha256": "0eeb80fac8c439aaf4a9e8aed09f407a3fb56a796881dfba4a7995539eb846be",
+    "bytes": 9588
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/ff_dum.itp",
+    "sha256": "e1359645192fa6eebc2cda05d5e8a0fabe0e2bab6027a01f6080c17ccdf2b094",
+    "bytes": 1224
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/ffbonded.itp",
+    "sha256": "1843c225d3775fcaae0bb3f91b1f789105fb4fcb55c120f73f400526d67f0762",
+    "bytes": 13482
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/ffnonbonded.itp",
+    "sha256": "c61951a3cb8d41c5b0f32b6f2556facc39b8ec1739df25787573c3ca99335702",
+    "bytes": 218882
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/forcefield.doc",
+    "sha256": "cfca38d5d588322205008bea5f441814f50c85824f343d5faf509758a6206dcb",
+    "bytes": 98
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/forcefield.itp",
+    "sha256": "8a90eddbc1c1582ade0d579882358af43dc5a7a5cc4d96cd859d9597c9a0afd2",
+    "bytes": 176
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/ions.itp",
+    "sha256": "704423f7e46fc12e7cc898b55bf0b0410f52037c654b170653addb43a4785e4a",
+    "bytes": 1014
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/popc.itp",
+    "sha256": "b323396245212c89404839085bfed822c95db8bb22d7f9502944d769dec0c46a",
+    "bytes": 10066
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/spc.itp",
+    "sha256": "cbf3ff827707f56a1580d10b2e24e38c0cb14df6abc0908f9d2cf0313140eaed",
+    "bytes": 815
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/spce.itp",
+    "sha256": "b9a9f10e137c136f70a814530f3f7f6a053159d9756e3ea90eae41a4b6653faa",
+    "bytes": 815
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/tip3p.itp",
+    "sha256": "37307d85dedcd5cd77ca258e2ab7a017ee6e2fcf6ddbdd1e22332876d60007f5",
+    "bytes": 636
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/tip4p.itp",
+    "sha256": "6c72d76295e6ace1b1880561ec1d858078cc0bdf6bf5dbe6bdd05e3e02f9f364",
+    "bytes": 1148
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/tmcl.itp",
+    "sha256": "08b6d680d0e1c53bc3403e63cc4cce718de7daec5878085528aa97502e1ed56c",
+    "bytes": 21767
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff/watermodels.dat",
+    "sha256": "9ee4a3d2f8a664b7809261f7c9d3051f269b4e9d16a10818040c7dfec1d770fc",
+    "bytes": 90
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/surface-project-custom-v1/custom_ff/ff_dum.itp",
+    "sha256": "e1359645192fa6eebc2cda05d5e8a0fabe0e2bab6027a01f6080c17ccdf2b094",
+    "bytes": 1224
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/surface-project-custom-v1/custom_ff/ffbonded.itp",
+    "sha256": "1843c225d3775fcaae0bb3f91b1f789105fb4fcb55c120f73f400526d67f0762",
+    "bytes": 13482
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/surface-project-custom-v1/custom_ff/ffnonbonded.itp",
+    "sha256": "c61951a3cb8d41c5b0f32b6f2556facc39b8ec1739df25787573c3ca99335702",
+    "bytes": 218882
+  },
+  {
+    "path": "forcefields/gromos54a7-atb/surface-project-custom-v1/custom_ff/forcefield.itp",
+    "sha256": "5a2cea20f8f658b868c7384c66c1ee8020245166f29f8cdf5d032bc6ea560ff0",
+    "bytes": 917
+  },
+  {
+    "path": "molecules/5cb/structures/import-d6118d8b3738/5cb.gro",
+    "sha256": "d6118d8b373877f50f66be2e25ce2a330aa0eec166201834083ae7be8f5f2f64",
+    "bytes": 1824
+  },
+  {
+    "path": "molecules/5cb/structures/import-512b1d30653b/5cb.pdb",
+    "sha256": "512b1d30653bdf3a9cf6bc13febd9692a6159e1080488b005fc67401570a8143",
+    "bytes": 4268
+  },
+  {
+    "path": "molecules/5cb/structures/import-ad70473f8083/5cb.xyz",
+    "sha256": "ad70473f8083bc625eb565dcc8cdc6ca9af477a579f5b4a21f3865016a8bca52",
+    "bytes": 1415
+  },
+  {
+    "path": "molecules/chlorophyll-a/structures/import-ba1ecfca0399/chla.xyz",
+    "sha256": "ba1ecfca039953ee8327d4fb8b10ec56ed24958f91382e189ff39391d0034fcb",
+    "bytes": 5079
+  },
+  {
+    "path": "molecules/chlorophyll-a/structures/import-afc82cddcd03/chla_full.gro",
+    "sha256": "afc82cddcd0363baac6bba2519210bee6cc3d15102b67881b8f85aac916d26f3",
+    "bytes": 6266
+  },
+  {
+    "path": "molecules/chlorophyll-a-truncated/structures/import-5a4c2801a8d6/chla_trunc_4coord.xyz",
+    "sha256": "5a4c2801a8d69d9cb7c75f8e1094f43cb788031f52f02f401285b38b1ff1fed4",
+    "bytes": 3116
+  },
+  {
+    "path": "molecules/chlorophyll-a-truncated/structures/import-7fcbd170407d/chla_trunc_4coord_r2scan3c_opt.xyz",
+    "sha256": "7fcbd170407d7af1065f46380359311746f09b5a47700ec37d2deaf0543eb6a9",
+    "bytes": 6229
+  },
+  {
+    "path": "molecules/chlorophyll-a-truncated-acetonitrile-complex/structures/import-75f3e2db639d/chla_trunc_acn_face_plus_initial.xyz",
+    "sha256": "75f3e2db639d7b15efe6773e3d6141451cf16f3bf1a8591ea09b82ec2655a2ba",
+    "bytes": 3802
+  },
+  {
+    "path": "molecules/chlorophyll-a-truncated-acetonitrile-complex/structures/import-ef8680cd3c3a/chla_trunc_acn_face_minus_initial.xyz",
+    "sha256": "ef8680cd3c3a438371bed48eb1d7c228ed8667fed2c49a87bcaf282433c13e2d",
+    "bytes": 3803
+  },
+  {
+    "path": "quarantine/83b838747180/chlA.gro",
+    "sha256": "83b838747180aad25a18382580538403b4fcbf4856bb69dde913b5599f2730ab",
+    "bytes": 3718
+  },
+  {
+    "path": "molecules/chlorophyll-a/structures/import-48d11fd89883/chla_full_4coord.xyz",
+    "sha256": "48d11fd898833cea9a4a2236c1022f13fb87cf2704cd332f165810fe02e680d8",
+    "bytes": 5470
+  },
+  {
+    "path": "incoming/downloads/cdd1c2ced106/Conformer3D_COMPOUND_CID_7352.sdf",
+    "sha256": "cdd1c2ced106d810ec36b93522f8bcf50990c31874645e79ffb99f56a167f453",
+    "bytes": 3814
+  },
+  {
+    "path": "molecules/chlorophyll-a/structures/import-85615f9f26cc/chlA.gro",
+    "sha256": "85615f9f26ccfe5abf7fd94ed718a72f8eb6b4c67967bb4a58cecce5f59c218e",
+    "bytes": 6238
+  },
+  {
+    "path": "incoming/unclassified-topologies/1642219552b3/NMA.itp",
+    "sha256": "1642219552b3e97c73b01ed2ba253f97d540b4dfd5fd95385e6c0575e612fc95",
+    "bytes": 3065526
+  },
+  {
+    "path": "incoming/unclassified-topologies/6daa90c512ea/chlA_Mg_0bonds_afterATB.itp",
+    "sha256": "6daa90c512ea635430846bc63a4fc2415296547a22b7079d67a6303be2cc4a83",
+    "bytes": 38274
+  },
+  {
+    "path": "molecules/chlorophyll-a/structures/import-51a81f3d77fe/chlA_Mg_2bonds.pdb",
+    "sha256": "51a81f3d77fe8ee9ff8f7c4f109af30104bfb40114ff7544ac3938d9cf6bc5ce",
+    "bytes": 20957
+  },
+  {
+    "path": "molecules/chlorophyll-a/structures/import-6848b0a4e1ed/chlA_Mg_4bonds.pdb",
+    "sha256": "6848b0a4e1ed2987109dcd905a7f0f34f8e7dc64d344f0cffe4d5493ead0686d",
+    "bytes": 20957
+  },
+  {
+    "path": "molecules/water/structures/import-d111bf1afc75/spc.gro",
+    "sha256": "d111bf1afc75035b3046cfa6b6c5c0f2ff2e2ca5329422e99ab932f39aebc0b4",
+    "bytes": 213
+  },
+  {
+    "path": "incoming/unclassified-topologies/f02bc37b4a93/5cb.itp",
+    "sha256": "f02bc37b4a93866cf83d9c15eaf68018675a6c6fcc966b82b700a2f571452602",
+    "bytes": 25292
+  }
+]

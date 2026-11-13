@@ -1,0 +1,23 @@
+{
+  "status": "archived_not_approved_for_all_models",
+  "source_path": "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/custom_ff",
+  "imported_on": "2026-11-13",
+  "files": [
+    {
+      "path": "ff_dum.itp",
+      "sha256": "e1359645192fa6eebc2cda05d5e8a0fabe0e2bab6027a01f6080c17ccdf2b094"
+    },
+    {
+      "path": "ffbonded.itp",
+      "sha256": "1843c225d3775fcaae0bb3f91b1f789105fb4fcb55c120f73f400526d67f0762"
+    },
+    {
+      "path": "ffnonbonded.itp",
+      "sha256": "c61951a3cb8d41c5b0f32b6f2556facc39b8ec1739df25787573c3ca99335702"
+    },
+    {
+      "path": "forcefield.itp",
+      "sha256": "5a2cea20f8f658b868c7384c66c1ee8020245166f29f8cdf5d032bc6ea560ff0"
+    }
+  ]
+}

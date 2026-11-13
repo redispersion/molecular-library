@@ -1,0 +1,208 @@
+[
+  {
+    "sha256": "d6118d8b373877f50f66be2e25ce2a330aa0eec166201834083ae7be8f5f2f64",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/5cb.gro",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/5cb.gro"
+    ]
+  },
+  {
+    "sha256": "512b1d30653bdf3a9cf6bc13febd9692a6159e1080488b005fc67401570a8143",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/5cb.pdb",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/5cb.pdb"
+    ]
+  },
+  {
+    "sha256": "f02bc37b4a93866cf83d9c15eaf68018675a6c6fcc966b82b700a2f571452602",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/md001-chla-500-5cb-packmol/recovered/5cb.itp",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/5cb.itp",
+      "/home/dk/md/projects/pibma-lc/itp/5cb.itp"
+    ]
+  },
+  {
+    "sha256": "5a4c2801a8d69d9cb7c75f8e1094f43cb788031f52f02f401285b38b1ff1fed4",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/step001-chla-trunc-stropt/input/chla_trunc_4coord.xyz",
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/chlA_cutted.xyz",
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/structures/chlorophyll/chla_trunc_4coord.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/calc/step001-chla-trunc-stropt/input/chla_trunc_4coord.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/chlA_cutted.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/structures/chlorophyll/chla_trunc_4coord.xyz"
+    ]
+  },
+  {
+    "sha256": "7fcbd170407d7af1065f46380359311746f09b5a47700ec37d2deaf0543eb6a9",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/step002-chla-trunc-hessian/input/chla_trunc_4coord_r2scan3c_opt.xyz",
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/step003-chla-trunc-tddft/input/chla_trunc_4coord_r2scan3c_opt.xyz",
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/structures/chlorophyll/chla_trunc_4coord_r2scan3c_opt.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/calc/step002-chla-trunc-hessian/input/chla_trunc_4coord_r2scan3c_opt.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/calc/step003-chla-trunc-tddft/input/chla_trunc_4coord_r2scan3c_opt.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/structures/chlorophyll/chla_trunc_4coord_r2scan3c_opt.xyz"
+    ]
+  },
+  {
+    "sha256": "aab613ad016afffef6a21eeb679109f1764939efab94bb488457bfde6609f113",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/step003-chla-trunc-tddft/output/chla_trunc_tddft.s1.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/calc/step003-chla-trunc-tddft/output/chla_trunc_tddft.s1.xyz"
+    ]
+  },
+  {
+    "sha256": "75f3e2db639d7b15efe6773e3d6141451cf16f3bf1a8591ea09b82ec2655a2ba",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/step004-chla-acn-face-plus-opt/input/chla_trunc_acn_face_plus_initial.xyz",
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/structures/complexes/chla_trunc_acn_face_plus_initial.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/calc/step004-chla-acn-face-plus-opt/input/chla_trunc_acn_face_plus_initial.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/structures/complexes/chla_trunc_acn_face_plus_initial.xyz"
+    ]
+  },
+  {
+    "sha256": "ef8680cd3c3a438371bed48eb1d7c228ed8667fed2c49a87bcaf282433c13e2d",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/calc/step005-chla-acn-face-minus-opt/input/chla_trunc_acn_face_minus_initial.xyz",
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/structures/complexes/chla_trunc_acn_face_minus_initial.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/calc/step005-chla-acn-face-minus-opt/input/chla_trunc_acn_face_minus_initial.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/structures/complexes/chla_trunc_acn_face_minus_initial.xyz"
+    ]
+  },
+  {
+    "sha256": "83b838747180aad25a18382580538403b4fcbf4856bb69dde913b5599f2730ab",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/chlA.gro",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/chlA.gro"
+    ]
+  },
+  {
+    "sha256": "48d11fd898833cea9a4a2236c1022f13fb87cf2704cd332f165810fe02e680d8",
+    "source_paths": [
+      "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/structures/chlorophyll/chla_full_4coord.xyz",
+      "/home/dk/md/projects/chlorophyll-lc-scaffold/structures/chlorophyll/chla_full_4coord.xyz"
+    ]
+  },
+  {
+    "sha256": "e1359645192fa6eebc2cda05d5e8a0fabe0e2bab6027a01f6080c17ccdf2b094",
+    "source_paths": [
+      "/home/dk/md/forcefields/gromos54a7_atb.ff/ff_dum.itp",
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/custom_ff/ff_dum.itp"
+    ]
+  },
+  {
+    "sha256": "1843c225d3775fcaae0bb3f91b1f789105fb4fcb55c120f73f400526d67f0762",
+    "source_paths": [
+      "/home/dk/md/forcefields/gromos54a7_atb.ff/ffbonded.itp",
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/custom_ff/ffbonded.itp"
+    ]
+  },
+  {
+    "sha256": "c61951a3cb8d41c5b0f32b6f2556facc39b8ec1739df25787573c3ca99335702",
+    "source_paths": [
+      "/home/dk/md/forcefields/gromos54a7_atb.ff/ffnonbonded.itp",
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/custom_ff/ffnonbonded.itp"
+    ]
+  },
+  {
+    "sha256": "b9a9f10e137c136f70a814530f3f7f6a053159d9756e3ea90eae41a4b6653faa",
+    "source_paths": [
+      "/home/dk/md/forcefields/gromos54a7_atb.ff/spce.itp",
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/itp/spce.itp"
+    ]
+  },
+  {
+    "sha256": "85615f9f26ccfe5abf7fd94ed718a72f8eb6b4c67967bb4a58cecce5f59c218e",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/coord/chlA.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_N80_solv/chlA.gro"
+    ]
+  },
+  {
+    "sha256": "d111bf1afc75035b3046cfa6b6c5c0f2ff2e2ca5329422e99ab932f39aebc0b4",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/coord/spc.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/coord/spc.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_inverse_H2O_Hexan/spc.gro"
+    ]
+  },
+  {
+    "sha256": "6daa90c512ea635430846bc63a4fc2415296547a22b7079d67a6303be2cc4a83",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/itp/chlA_Mg_0bonds_afterATB.itp",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/itp/chlA_Mg_0bonds_afterATB.itp"
+    ]
+  },
+  {
+    "sha256": "25ca1de0db8a76164207eac8d13c388286fba9f90cf52122caa0c891f91c345c",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/coord/chlA_Mg_0bonds_afterATB.pdb",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_N80_solv/chlA_Mg_0bonds_afterATB.pdb"
+    ]
+  },
+  {
+    "sha256": "cd90a77d1ca39457206ed58cdaa6948415a3fed1ef4c6aac038bc39bb7781e59",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/2_hexan_water_chlA1/relaxation/prod/chlA_wall.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/relaxation/prod/chlA_wall.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/4_hexan_water_chlA3/relaxation/prod/chlA_wall.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/5_hexan_water_chlA4/relaxation/prod/chlA_wall.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/6_hexan_water_chlA5/relaxation/prod/chlA_wall.gro"
+    ]
+  },
+  {
+    "sha256": "b3ee131313d6b9158f333960b37a685a0b26a4cad9103c4e6d8cbbc8ce0ffce0",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/2_hexan_water_chlA1/run/prod/md.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/relaxation/prod/md.gro"
+    ]
+  },
+  {
+    "sha256": "c20de6d7c42d2dc761d50136aab6008c4be6913049f76e4e03f9d58d289139bf",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/run/prod/md_center.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/4_hexan_water_chlA3/relaxation/prod/md_center.gro"
+    ]
+  },
+  {
+    "sha256": "8dc446d7b567d6661e7b53c47aad1e944751311efe2675ad46b9117eb196708c",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/4_hexan_water_chlA3/run/prod/md_center.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/5_hexan_water_chlA4/relaxation/prod/md_center.gro"
+    ]
+  },
+  {
+    "sha256": "937ea30630378f9ea207df7ad4f3731ea9dc0c528fd20c041a178963a4038efa",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/5_hexan_water_chlA4/run/prod/md_center.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/6_hexan_water_chlA5/relaxation/prod/md_center.gro"
+    ]
+  },
+  {
+    "sha256": "31d019a4b41e95aa16148fe267aaeca62fc6dd4dcfdff4e8e6fe370098a5e645",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/6_hexan_water_chlA5/run/prod_0-200ns/md.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/6_hexan_water_chlA5/run/prod_0-40ns/md.gro"
+    ]
+  },
+  {
+    "sha256": "47f9e53301ff5182b4ba77c18cd752ed452cdfdbab28c2f289bac3e941aca1c0",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_N80_100pctC2H5OH100-0pctH2O/em/chlA_ethanol_box.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_N80_100pctC2H5OH100-0pctH2O/chlA_ethanol_box.gro"
+    ]
+  },
+  {
+    "sha256": "cd37edc9af5bfff61cb3917066c5a289a181e7393c82de744c2b81ec3993790e",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_H2O_Hexan/hexan.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_inverse_H2O_Hexan/hexan.gro"
+    ]
+  },
+  {
+    "sha256": "a8d11d4f4679fe7d6e3c6b141dcd123a8f7d02b3487314edda70ad75dd64688a",
+    "source_paths": [
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_N80_100pctC2H5OH100-0pctH2O/chlA_box.gro",
+      "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/systbuild/chlA_N80_solv/chlA_box.gro"
+    ]
+  }
+]

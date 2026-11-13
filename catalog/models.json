@@ -1,0 +1,86 @@
+[
+  {
+    "molecule": "5cb",
+    "model": "gromos54a7-atb-32350",
+    "path": "molecules/5cb/models/gromos54a7-atb-32350/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "5cb",
+    "model": "gromos54a7-atb-569019",
+    "path": "molecules/5cb/models/gromos54a7-atb-569019/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "5cb",
+    "model": "acpype-legacy",
+    "path": "molecules/5cb/models/acpype-legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "chlorophyll-a",
+    "model": "atb-legacy-0bonds-label",
+    "path": "molecules/chlorophyll-a/models/atb-legacy-0bonds-label/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "chlorophyll-a",
+    "model": "atb-legacy-2bonds-label",
+    "path": "molecules/chlorophyll-a/models/atb-legacy-2bonds-label/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "chlorophyll-a",
+    "model": "atb-legacy-4bonds-label",
+    "path": "molecules/chlorophyll-a/models/atb-legacy-4bonds-label/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "ethanol",
+    "model": "atb-legacy",
+    "path": "molecules/ethanol/models/atb-legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "n-hexane",
+    "model": "atb-legacy",
+    "path": "molecules/n-hexane/models/atb-legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "pibma-head",
+    "model": "legacy",
+    "path": "molecules/pibma-head/models/legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "pibma-body",
+    "model": "legacy",
+    "path": "molecules/pibma-body/models/legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "pibma-tail",
+    "model": "legacy",
+    "path": "molecules/pibma-tail/models/legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "pibma-monomer",
+    "model": "legacy",
+    "path": "molecules/pibma-monomer/models/legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "pibma-chain",
+    "model": "legacy",
+    "path": "molecules/pibma-chain/models/legacy/v1",
+    "status": "imported_not_physically_validated"
+  },
+  {
+    "molecule": "water",
+    "model": "legacy-spce",
+    "path": "molecules/water/models/legacy-spce/v1",
+    "status": "imported_not_physically_validated"
+  }
+]

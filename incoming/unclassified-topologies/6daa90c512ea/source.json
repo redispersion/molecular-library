@@ -1,0 +1,14 @@
+{
+  "source_path": "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/itp/chlA_Mg_0bonds_afterATB.itp",
+  "status": "byte_identical_to_cataloged_model_file",
+  "checks": [
+    {
+      "name": "UYLP",
+      "atom_count": 137,
+      "charge_e": -0.0
+    }
+  ],
+  "cataloged_models": [
+    "molecules/chlorophyll-a/models/atb-legacy-0bonds-label/v1"
+  ]
+}

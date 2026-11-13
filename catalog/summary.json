@@ -1,0 +1,38 @@
+{
+  "scanned_files": 739,
+  "non_vendor_files_hashed": 219,
+  "models": 14,
+  "molecule_entries": 12,
+  "unique_stored_objects": 70,
+  "readable_file_paths": 78,
+  "unique_stored_bytes": 4492785,
+  "duplicate_source_groups": 27,
+  "categories": {
+    "candidate": 108,
+    "malformed_or_unsupported": 20,
+    "software_example_or_distribution": 520,
+    "system_or_multiresidue_structure": 91
+  },
+  "malformed": [
+    "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold/chlA.gro",
+    "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/run/em_tol100/step-1c.pdb",
+    "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/run/em_tol100/step17c.pdb",
+    "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/run/em_tol100/step62c.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/2_hexan_water_chlA1/run/em/step11c.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/2_hexan_water_chlA1/run/em/step28c.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/2_hexan_water_chlA1/run/em/step41c.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/run/em/step17c_n0.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/run/em/step21c_n0.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/run/em/step26c_n0.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/3_hexan_water_chlA2/run/em/step30c_n0.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/4_hexan_water_chlA3/run/em/step11c_n18.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/4_hexan_water_chlA3/run/em/step17c_n18.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/4_hexan_water_chlA3/run/prod/md_mg.gro",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/5_hexan_water_chlA4/run/em/step14c_n21.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/5_hexan_water_chlA4/run/em/step16c_n21.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/5_hexan_water_chlA4/run/em/step26c_n21.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/chlA_H2O_Hexan/prod/6_hexan_water_chlA5/run/em/step11c_n1.pdb",
+    "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/run/geoopt/chlA.xyz",
+    "/home/dk/md/projects/chlorophyll-lc-scaffold/chlA.gro"
+  ]
+}

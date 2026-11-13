@@ -1,0 +1,59 @@
+{
+  "molecule_id": "chlorophyll-a",
+  "model_id": "atb-legacy-4bonds-label",
+  "version": "v1",
+  "imported_on": "2026-11-13",
+  "status": "imported_not_physically_validated",
+  "provenance": {
+    "note": "Original filename labels retained; actual Mg bond counts must be read from checks. Semiempirical legacy model."
+  },
+  "forcefield_dependency": {
+    "family": "GROMOS54A7-ATB",
+    "status": "required_version_not_established",
+    "local_candidate": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff",
+    "note": "Local legacy files are a candidate only. No assumption of compatibility with November 2026 ATB outputs."
+  },
+  "files": [
+    {
+      "name": "chlA_Mg_4bonds_afterATB.itp",
+      "sha256": "d3a9c9931d7db1f62a5ed80dd19a8a65a2c49e047c6100c2c2e974fb998462df",
+      "source_path": "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/itp/chlA_Mg_4bonds_afterATB.itp"
+    },
+    {
+      "name": "chlA_Mg_4bonds_afterATB.pdb",
+      "sha256": "ba5ffeb95b821c350e930a792ff1b7e2ed3c2a6e03aa97c72bc270ef05e1db40",
+      "source_path": "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/coord/chlA_Mg_4bonds_afterATB.pdb"
+    }
+  ],
+  "checks": {
+    "chlA_Mg_4bonds_afterATB.itp": {
+      "molecule_types": [
+        {
+          "name": "A22N",
+          "atom_count": 137,
+          "charge_e": -0.0
+        }
+      ],
+      "atb_molid_header": [
+        "1753471"
+      ],
+      "atb_topology_hash": [
+        "ca2ee"
+      ],
+      "numeric_placeholder_lines": []
+    },
+    "chlA_Mg_4bonds_afterATB.itp__chlA_Mg_4bonds_afterATB.pdb": {
+      "atom_name_order_match": true,
+      "status": "checked",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    },
+    "mg_bonded_neighbors": {
+      "110": [
+        "N1",
+        "N2",
+        "N3",
+        "N4"
+      ]
+    }
+  }
+}

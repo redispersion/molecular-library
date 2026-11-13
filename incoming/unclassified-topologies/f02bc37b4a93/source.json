@@ -1,0 +1,14 @@
+{
+  "source_path": "/home/dk/md/projects/pibma-lc/itp/5cb.itp",
+  "status": "byte_identical_to_cataloged_model_file",
+  "checks": [
+    {
+      "name": "5cb",
+      "atom_count": 38,
+      "charge_e": 0.0
+    }
+  ],
+  "cataloged_models": [
+    "molecules/5cb/models/acpype-legacy/v1"
+  ]
+}

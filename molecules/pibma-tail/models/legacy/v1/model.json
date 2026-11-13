@@ -1,0 +1,55 @@
+{
+  "molecule_id": "pibma-tail",
+  "model_id": "legacy",
+  "version": "v1",
+  "imported_on": "2026-11-13",
+  "status": "imported_not_physically_validated",
+  "provenance": {
+    "source_project": "/home/dk/md/projects/pibma-lc",
+    "note": "Polymer/fragment identity, capping and degree of polymerization require review; head/body/tail are not automatically isolated stable molecules."
+  },
+  "forcefield_dependency": {
+    "status": "not_established"
+  },
+  "files": [
+    {
+      "name": "pibma_tail.itp",
+      "sha256": "fb839dcaab1e721884d2ba96c69845fcf9f921d98f95b54724ebedea2fde2ff9",
+      "source_path": "/home/dk/md/projects/pibma-lc/itp/pibma_tail.itp"
+    },
+    {
+      "name": "pibma_tail.pdb",
+      "sha256": "eb4f0e1d568cdffa061bc48093c76fae332095c55350342b3f11b6c5850b6ae3",
+      "source_path": "/home/dk/md/projects/pibma-lc/coord/pibma_tail.pdb"
+    },
+    {
+      "name": "pibma_tail.gro",
+      "sha256": "b03a37e823dac573f4eff164845d8667f5ebc2c9ea33f2ae7d1f3b4f4d3882c2",
+      "source_path": "/home/dk/md/projects/pibma-lc/coord/pibma_tail.gro"
+    }
+  ],
+  "checks": {
+    "pibma_tail.itp": {
+      "molecule_types": [
+        {
+          "name": "pibma_tail",
+          "atom_count": 32,
+          "charge_e": -0.0
+        }
+      ],
+      "atb_molid_header": [],
+      "atb_topology_hash": [],
+      "numeric_placeholder_lines": []
+    },
+    "pibma_tail.itp__pibma_tail.pdb": {
+      "atom_name_order_match": true,
+      "status": "checked",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    },
+    "pibma_tail.itp__pibma_tail.gro": {
+      "atom_name_order_match": true,
+      "status": "checked",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "molecule_id": "ethanol",
+  "model_id": "atb-legacy",
+  "version": "v1",
+  "imported_on": "2026-11-13",
+  "status": "imported_not_physically_validated",
+  "provenance": {
+    "source_project": "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF"
+  },
+  "forcefield_dependency": {
+    "family": "GROMOS54A7-ATB",
+    "status": "required_version_not_established",
+    "local_candidate": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff",
+    "note": "Local legacy files are a candidate only. No assumption of compatibility with November 2026 ATB outputs."
+  },
+  "files": [
+    {
+      "name": "ethanol.itp",
+      "sha256": "a3dcbe58adbef4d214b4133d86f3db3884c8ae3b4e1b81ee99e20ecd2c8f5993",
+      "source_path": "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/itp/ethanol.itp"
+    },
+    {
+      "name": "ethanol.gro",
+      "sha256": "4e7553d42a72ee8a5b571fa70437a1d00acd5b64f301265edef0e889edcddd70",
+      "source_path": "/home/dk/md/projects/chlorophyll/chlorophyll_ExtEF/coord/ethanol.gro"
+    }
+  ],
+  "checks": {
+    "ethanol.itp": {
+      "molecule_types": [
+        {
+          "name": "X5VY",
+          "atom_count": 9,
+          "charge_e": 0.0
+        }
+      ],
+      "atb_molid_header": [
+        "26394"
+      ],
+      "atb_topology_hash": [
+        "0f84d"
+      ],
+      "numeric_placeholder_lines": []
+    },
+    "ethanol.itp__ethanol.gro": {
+      "atom_name_order_match": true,
+      "status": "checked",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    }
+  }
+}

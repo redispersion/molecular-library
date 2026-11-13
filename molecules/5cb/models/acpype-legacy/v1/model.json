@@ -1,0 +1,45 @@
+{
+  "molecule_id": "5cb",
+  "model_id": "acpype-legacy",
+  "version": "v1",
+  "imported_on": "2026-11-13",
+  "status": "imported_not_physically_validated",
+  "provenance": {
+    "generator": "ACPYPE",
+    "note": "Exact GAFF/GAFF2 version and charge procedure not confirmed."
+  },
+  "forcefield_dependency": {
+    "status": "not_established"
+  },
+  "files": [
+    {
+      "name": "5cb.itp",
+      "sha256": "f02bc37b4a93866cf83d9c15eaf68018675a6c6fcc966b82b700a2f571452602",
+      "source_path": "/home/dk/md/projects/chlorophyll-lc-scaffold/5cb.itp"
+    },
+    {
+      "name": "5cb.gro",
+      "sha256": "d6118d8b373877f50f66be2e25ce2a330aa0eec166201834083ae7be8f5f2f64",
+      "source_path": "/home/dk/md/projects/chlorophyll-lc-scaffold/5cb.gro"
+    }
+  ],
+  "checks": {
+    "5cb.itp": {
+      "molecule_types": [
+        {
+          "name": "5cb",
+          "atom_count": 38,
+          "charge_e": 0.0
+        }
+      ],
+      "atb_molid_header": [],
+      "atb_topology_hash": [],
+      "numeric_placeholder_lines": []
+    },
+    "5cb.itp__5cb.gro": {
+      "atom_name_order_match": true,
+      "status": "checked",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    }
+  }
+}

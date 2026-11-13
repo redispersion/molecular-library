@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-13",
+  "roots": [
+    "/home/dk/md",
+    "/home/dk/Downloads",
+    "/home/dk/Documents",
+    "/home/dk/science",
+    "/home/dk/qchem",
+    "/home/dk/calc",
+    "/home/dk/CompoundScripts",
+    "/home/dk/repositories",
+    "/home/dk/library",
+    "/home/dk/.codex/worktrees/8d0d/chlorophyll-lc-scaffold"
+  ],
+  "method": "rg --files with molecular extension filters; current worktree also inspected",
+  "limitations": [
+    "Not an exhaustive scan of all /home/dk. Hidden/ignored files and archive contents are not included.",
+    "Software examples/distributions indexed only. No cloud or remote storage accessed.",
+    "Deduplication is byte identity only, not chemical/geometry equivalence."
+  ],
+  "extensions": [
+    ".cif",
+    ".frcmod",
+    ".gro",
+    ".itp",
+    ".lib",
+    ".mol2",
+    ".off",
+    ".pdb",
+    ".prm",
+    ".rtf",
+    ".sdf",
+    ".top",
+    ".xyz"
+  ]
+}

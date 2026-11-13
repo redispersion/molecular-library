@@ -1,0 +1,61 @@
+{
+  "molecule_id": "5cb",
+  "model_id": "gromos54a7-atb-569019",
+  "version": "v1",
+  "imported_on": "2026-11-13",
+  "status": "imported_not_physically_validated",
+  "provenance": {
+    "service": "ATB",
+    "molid": "569019",
+    "url": "https://atb.uq.edu.au/molecule.py?molid=569019"
+  },
+  "forcefield_dependency": {
+    "family": "GROMOS54A7-ATB",
+    "status": "local_candidate_missing_required_atomtypes",
+    "local_candidate": "forcefields/gromos54a7-atb/local-legacy-v1/gromos54a7_atb.ff",
+    "note": "Local legacy files are a candidate only. No assumption of compatibility with November 2026 ATB outputs.",
+    "missing_atomtypes_in_local_candidate": [
+      "COpt",
+      "C_H3",
+      "HCAr",
+      "HCH3",
+      "HOpt",
+      "NItr"
+    ]
+  },
+  "files": [
+    {
+      "name": "5cb.itp",
+      "sha256": "11b0910d423094e640cb6e003a49229b1751c0dd9542ea3316364f1b95fd1c4e",
+      "source_path": "/home/dk/md/projects/chlorophyll-lc-scaffold/parameters/atb/5cb/569019/5cb.itp"
+    },
+    {
+      "name": "5cb.pdb",
+      "sha256": "78feb14f4e763bf8608f2fda13608fbdbf8eef19dec8995a6223144d2e8a0191",
+      "source_path": "/home/dk/md/projects/chlorophyll-lc-scaffold/parameters/atb/5cb/569019/5cb.pdb"
+    }
+  ],
+  "checks": {
+    "5cb.itp": {
+      "molecule_types": [
+        {
+          "name": "2XJB",
+          "atom_count": 38,
+          "charge_e": -0.0
+        }
+      ],
+      "atb_molid_header": [
+        "569019"
+      ],
+      "atb_topology_hash": [
+        "a91e1"
+      ],
+      "numeric_placeholder_lines": []
+    },
+    "5cb.itp__5cb.pdb": {
+      "atom_name_order_match": true,
+      "status": "checked",
+      "scope": "count and exact atom names/order only; geometry and force field validity not established"
+    }
+  }
+}

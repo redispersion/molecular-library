@@ -1,0 +1,95 @@
+{
+  "status": "archived_not_approved_for_all_models",
+  "source_path": "/home/dk/md/forcefields/gromos54a7_atb.ff",
+  "imported_on": "2026-11-13",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "cfcf1e1f2653a5aa5af4f879f0f1d8e3eedb55c6f1b1de996280fbb993184bdd"
+    },
+    {
+      "path": "aminoacids.c.tdb",
+      "sha256": "e5518720a7f0dba2983a849c8925bb84c7802a02d70bdd8e44a46e4a7e718c4b"
+    },
+    {
+      "path": "aminoacids.hdb",
+      "sha256": "163c7802736850c2f4a2c82c6074a9eba867a24c7bb417ad397eb5e6fe2bc36f"
+    },
+    {
+      "path": "aminoacids.n.tdb",
+      "sha256": "5587327094b7793ec62ecdbbd5c63455528a5c92cef94bad9e03b8799b713ad2"
+    },
+    {
+      "path": "aminoacids.r2b",
+      "sha256": "168893ee7ddbd77436b9b0c0c6049eb4f1bec8db7f971d2a36a2c19162aae225"
+    },
+    {
+      "path": "aminoacids.rtp",
+      "sha256": "2b5806271d539df9bad2a39bcc85b16d8f92d066dfe2c465b818c1db01caa7e2"
+    },
+    {
+      "path": "aminoacids.vsd",
+      "sha256": "54ea3c83b257bc93d441bc30c9f00b053b54796693d1739808a5a6b99cab1c10"
+    },
+    {
+      "path": "atomtypes.atp",
+      "sha256": "6c273d2ebe6ffca1e1ff354152c0265447ddad49d06c9adb2880ade90a695947"
+    },
+    {
+      "path": "dppc.itp",
+      "sha256": "0eeb80fac8c439aaf4a9e8aed09f407a3fb56a796881dfba4a7995539eb846be"
+    },
+    {
+      "path": "ff_dum.itp",
+      "sha256": "e1359645192fa6eebc2cda05d5e8a0fabe0e2bab6027a01f6080c17ccdf2b094"
+    },
+    {
+      "path": "ffbonded.itp",
+      "sha256": "1843c225d3775fcaae0bb3f91b1f789105fb4fcb55c120f73f400526d67f0762"
+    },
+    {
+      "path": "ffnonbonded.itp",
+      "sha256": "c61951a3cb8d41c5b0f32b6f2556facc39b8ec1739df25787573c3ca99335702"
+    },
+    {
+      "path": "forcefield.doc",
+      "sha256": "cfca38d5d588322205008bea5f441814f50c85824f343d5faf509758a6206dcb"
+    },
+    {
+      "path": "forcefield.itp",
+      "sha256": "8a90eddbc1c1582ade0d579882358af43dc5a7a5cc4d96cd859d9597c9a0afd2"
+    },
+    {
+      "path": "ions.itp",
+      "sha256": "704423f7e46fc12e7cc898b55bf0b0410f52037c654b170653addb43a4785e4a"
+    },
+    {
+      "path": "popc.itp",
+      "sha256": "b323396245212c89404839085bfed822c95db8bb22d7f9502944d769dec0c46a"
+    },
+    {
+      "path": "spc.itp",
+      "sha256": "cbf3ff827707f56a1580d10b2e24e38c0cb14df6abc0908f9d2cf0313140eaed"
+    },
+    {
+      "path": "spce.itp",
+      "sha256": "b9a9f10e137c136f70a814530f3f7f6a053159d9756e3ea90eae41a4b6653faa"
+    },
+    {
+      "path": "tip3p.itp",
+      "sha256": "37307d85dedcd5cd77ca258e2ab7a017ee6e2fcf6ddbdd1e22332876d60007f5"
+    },
+    {
+      "path": "tip4p.itp",
+      "sha256": "6c72d76295e6ace1b1880561ec1d858078cc0bdf6bf5dbe6bdd05e3e02f9f364"
+    },
+    {
+      "path": "tmcl.itp",
+      "sha256": "08b6d680d0e1c53bc3403e63cc4cce718de7daec5878085528aa97502e1ed56c"
+    },
+    {
+      "path": "watermodels.dat",
+      "sha256": "9ee4a3d2f8a664b7809261f7c9d3051f269b4e9d16a10818040c7dfec1d770fc"
+    }
+  ]
+}

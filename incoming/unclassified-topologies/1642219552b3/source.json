@@ -1,0 +1,11 @@
+{
+  "source_path": "/home/dk/md/projects/chlorophyll/chlA_water_SiO2surface/itp/NMA.itp",
+  "status": "unclassified_not_approved",
+  "checks": [
+    {
+      "name": "NMA",
+      "atom_count": 7128,
+      "charge_e": 0.0
+    }
+  ]
+}
